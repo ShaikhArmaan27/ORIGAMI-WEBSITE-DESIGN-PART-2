@@ -1,0 +1,13 @@
+h1{
+    margin:100px;
+    margin-left: 800px;  
+    font-style: italic;
+    font-size: 80px;
+  }
+  body{
+      background-color: rgb(112, 210, 255);
+  }
+   img{
+       border:solid;
+       border-radius:10px;
+   }
